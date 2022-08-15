@@ -1,7 +1,7 @@
 # Whatstap 
 ##
 <p align="center">
-<img src="">
+<img src="https://github.com/galsreshef/WhatsTap-public/blob/main/Images/logo.png">
 </p>
 <br>
 </br>
@@ -30,8 +30,8 @@
 
 # App Screens
 <p align="center">
-   <a><img src="" height="350" ></a>&nbsp; 
-   <a><img src="" height="350"></a>&nbsp;
+   <a><img src="https://github.com/galsreshef/WhatsTap-public/blob/main/Images/screenshot_01.png" height="350" ></a>&nbsp; 
+   <a><img src="https://github.com/galsreshef/WhatsTap-public/blob/main/Images/screenshot_02.png" height="350"></a>&nbsp;
 </p>
 
 <br>
